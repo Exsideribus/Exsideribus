@@ -1,45 +1,20 @@
-<img src="https://i.pinimg.com/1200x/25/63/cf/2563cf26eb37a3148400e3c5f7fcc93a.jpg" alt="Banner Space" width="100%">
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;size=35&amp;pause=1000&amp;color=FFFFFF&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=150&amp;&lines=Hello!+I+am+Matheus;Data+Scientist+%26+Analyst;From+Data+to+Spacetime" />
+  <img src="assets/profile-hero.gif" alt="Matheus Najal Cruz — Exploring the universe through data. Moving nebula, drifting stars, and shooting stars." width="1200"><br>
+  <img src="assets/profile-heading-research.png" alt="Research" width="1200"><br>
+  <a href="https://doi.org/10.1109/SeGAH69272.2026.11653334"><img src="assets/research-mental-health.gif" alt="Depths of the Mind VR — animated ocean waves. Published at SeGAH 2026. Read the paper." width="48%"></a>
+  &nbsp;
+  <a href="https://github.com/Exsideribus/Simulador-de-Lente-Gravitacional"><img src="assets/research-lensing.gif" alt="Gravitational lensing simulator — animated light moving along the ring. Paper planned. Open the simulator repository." width="48%"></a>
 </p>
 
-Dedicated to Data Science and Analytics, with a strong focus on developing predictive models, performing exploratory analysis, and transforming raw data into strategic solutions.
-
-Currently building the data science foundation for a longer journey — transitioning from Computer Science into astrophysics, with formal physics studies starting next year, aiming toward the study of spacetime.
-
-* **Education:** B.S. in Computer Science
-* **Focus:** Applying mathematical foundations and Artificial Intelligence to solve complex analytical problems
-* **Data Stack:** Developing data manipulation workflows with Python (Pandas) and structuring advanced SQL queries for database integration
-* **Next Step:** Formal physics studies, en route to astrophysics and general relativity
-* **Languages:** Portuguese (Native) · English (Advanced)
-
-<br>
-
-### Tech Stack
-
-**Languages & Data Manipulation**  
-<img src="https://img.shields.io/badge/python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy-000000?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas-000000?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&amp;logo=scikit-learn&amp;logoColor=white"/>
-
-**Data Visualization & BI**  
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&amp;logo=Matplotlib&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-000000?style=for-the-badge&amp;logo=plotly&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&amp;logo=powerbi&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft_Excel-000000?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white"/>
-
-**Databases, Infrastructure & Tools**  
-<img src="https://img.shields.io/badge/postgresql-000000?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&amp;logo=SQLite&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-000000?style=for-the-badge&amp;logo=docker&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/git-000000?style=for-the-badge&amp;logo=git&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/github-000000?style=for-the-badge&amp;logo=github&amp;logoColor=white"/>
-
-**Documentation**  
-<img src="https://img.shields.io/badge/latex-000000?style=for-the-badge&amp;logo=latex&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/markdown-000000?style=for-the-badge&amp;logo=markdown&amp;logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white"/>
+<p align="center">
+  <img src="assets/profile-heading-projects.png" alt="Projects" width="1200"><br>
+  <a href="https://github.com/Exsideribus/Plataforma-Analitica-de-Potencial-Solar"><img src="assets/profile-project-solar.png" alt="Solar analytics — weather data to energy insights. Open the project." width="48%"></a>
+  &nbsp;
+  <a href="https://github.com/Exsideribus/Plataforma-de-Inteligencia-Comercial"><img src="assets/profile-project-commercial.png" alt="Commercial intelligence — sales data to business decisions. Open the project." width="48%"></a><br>
+  <img src="assets/profile-heading-toolkit.png" alt="Toolkit" width="1200"><br>
+  <img src="assets/profile-toolkit-expanded.png" alt="Toolkit: Python, SQL, NumPy, Pandas, scikit-learn, Jupyter, Matplotlib, Plotly, Streamlit, Power BI, Excel, PyQt6, PostgreSQL, MySQL, DBeaver, Docker, Git, GitHub, Godot, Unity, Unreal Engine, Omniverse, LaTeX, Markdown" width="1200"><br>
+  <img src="assets/profile-footer-gap.svg" alt="" width="1200"><br>
+  <a href="https://www.linkedin.com/in/matheusnajal/"><img src="assets/profile-connect-linkedin.png" alt="Connect on LinkedIn" width="48%"></a>
+  &nbsp;
+  <a href="https://github.com/Exsideribus?tab=repositories"><img src="assets/profile-connect-projects.png" alt="Browse all projects on GitHub" width="48%"></a>
+</p>
